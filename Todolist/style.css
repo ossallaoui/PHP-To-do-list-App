@@ -1,0 +1,17 @@
+center {
+	margin-top: 50px;
+	margin-bottom: 40px;
+}
+
+.row{
+	width: 1300px;
+	
+}
+
+.btn-light{
+	margin-left: 900px;
+}
+.modal-header .close{
+	margin: 1px 0 0 1px;
+	padding: 1px;
+}
